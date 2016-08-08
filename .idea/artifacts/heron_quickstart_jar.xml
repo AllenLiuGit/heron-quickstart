@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="heron-quickstart:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/heron_quickstart_jar</output-path>
+    <root id="archive" name="heron-quickstart.jar">
+      <element id="module-output" name="heron-quickstart" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/heron_quickstart_jar/heron-storm.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
